@@ -1,4 +1,15 @@
 # JAVA_PROJECTS
 
 LEVEL-1
--Multiplatform GUI_Calculator
+Palindrome_Checker
+,PasswordGenerator
+,Student_Grade_Calculator
+,Temperature_Converter
+
+LEVEL-2
+FileEncryptionDecryption
+,PasswordStrengthChecker
+,TicTacToe
+
+LEVEL-3
+Multiplatform GUI_Calculator
